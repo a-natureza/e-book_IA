@@ -14,6 +14,8 @@ E-book criado com uso de IA
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
+<a href="https://github.com/a-natureza/e-book_IA/blob/main/FTAE.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologia utilizada no projeto
 
 - [Gammas](https://gamma.app/)
