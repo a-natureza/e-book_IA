@@ -18,7 +18,7 @@ seguem abaixo.
 
 ## 💻 Tecnologia utilizada no projeto
 
-- [Gammas](https://gamma.app/)
+- [Gamma App](https://gamma.app/)
 
 ## 🧠 Prompts
 
